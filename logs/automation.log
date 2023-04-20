@@ -1,0 +1,31 @@
+00:04:51.053 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+00:04:51.418 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+00:04:52.992 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+00:04:53.006 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+00:07:24.438 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+00:07:24.660 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+00:07:26.521 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+00:07:26.535 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+18:57:30.572 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+18:57:51.875 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+18:58:13.586 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+18:58:34.639 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+18:58:56.105 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:13:47.493 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+19:13:47.752 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+19:13:48.940 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+19:13:48.960 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+19:13:50.701 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+19:13:54.471 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+20:07:58.947 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+20:07:59.637 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+20:08:01.231 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+20:08:01.237 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+20:08:04.006 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+20:08:10.412 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+20:17:01.819 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+20:17:02.508 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+20:17:03.778 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+20:17:03.789 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+20:17:05.815 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+20:17:12.246 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
